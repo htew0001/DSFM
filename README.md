@@ -32,7 +32,7 @@ pip install matplotlib
 pip install torchdiffeq
 ```
 
-5. Running
+5. **Running**
 ```bash
 cd dsfm
 
