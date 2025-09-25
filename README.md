@@ -1,6 +1,6 @@
 # DSFM
 
-### Main Contribution
+### Main Contributions
 - **Wavelet-Based Image Transform**:  
 Generate multivariate BOLD signals to wavelet-based image transform as opposed to univariate and fixed-resolution time-frequency images.
   
