@@ -35,5 +35,10 @@ pip install torchdiffeq
 5. **Running**
 ```bash
 cd dsfm
+accelerate launch --mixed_precision fp16 train_ode_dct_uncond.py --config=configs/fmri_diffts24_uvit_mid_2by2_ode_uncond.py --workdir=YOUR_PATH
+```  
 
+6. **FID evaluation**
+```bash
+accelerate launch --mixed_precision fp16 eval.py --config=configs/cifar10_uvit_mid_2by2_ode.py --output_path=cifar10_ode_block_reweight/FID --nnet_path=cifar10_ode_block_reweight/ckpts/140000.ckpt/nnet_ema.pth
 ```  
