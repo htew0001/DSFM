@@ -1,6 +1,6 @@
 # DSFM
 
-### Main Contributions
+## Main Contributions
 - **Wavelet-Based Image Transform**:  
 Generate multivariate BOLD signals using wavelet-based image transform as opposed to univariate and fixed-resolution time-frequency images.
   
@@ -18,7 +18,7 @@ https://www.fmrib.ox.ac.uk/datasets/netsim/index.html
 https://rfmri.org/REST-meta-MDD
 ```
 
-### Settings
+## Settings
 1. **Conda environment Setup**:
 ```bash
 conda create -n dsfm python=3.13.3
