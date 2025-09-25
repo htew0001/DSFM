@@ -7,6 +7,7 @@ Generate multivariate BOLD signals using wavelet-based image transform as oppose
 - **Spectral Flow Matching**:  
 Introduce spectral flow-matching loss that learns the velocity field of a probability flow directly in the DCT domain, enabling
 coarse-to-fine generation aligned with the spectral structure of natural images, while achieving high-fidelity synthesis with significantly fewer sampling steps.
+
 ## Dataset Overview
 1. **NetSim (Simulated)**
 ```bash
