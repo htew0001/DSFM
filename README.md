@@ -2,7 +2,7 @@
 
 ### Main Contribution
 - **Wavelet-Based Image Transform**:  
-Generate multivariate BOLD signals to wavelet-based image transform as opposed to univariate time-frequency images.
+Generate multivariate BOLD signals to wavelet-based image transform as opposed to univariate and fixed-resolution time-frequency images.
   
 - **Spectral Flow Matching**:  
 Introduce spectral flow-matching loss that learns the velocity field of a probability flow directly in the DCT domain, enabling
