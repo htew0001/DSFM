@@ -12,7 +12,6 @@
 [![paper](https://img.shields.io/badge/MICCAI'25-T2IDiff-b31b1b)](https://papers.miccai.org/miccai-2025/paper/3042_paper.pdf)
 [![arXiv](https://img.shields.io/badge/ICLR'26-DSFM-b31b1b)](https://openreview.net/pdf?id=Dgphd9qizu)
 
-
 </div>
 <div align="center">
 <img src="Images/viz1.png" alt="Visualization">
