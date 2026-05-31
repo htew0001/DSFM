@@ -4,9 +4,10 @@
 
 **_The first framework to introduce dual spectral image transform and spectral flow matching for fMRI BOLD signal generation and brain disorder classification!_**
 
-[Hwa Hui Tew](https://htew0001.github.io/)¹, [Junn Yong Loo](https://scholar.google.com/citations?user=PsL3CMYAAAAJ&hl=en)¹*, [Chee-Ming Ting](https://scholar.google.com.my/citations?user=z_BmSq4AAAAJ&hl=en&authuser=1&oi=ao)¹*
+[Hwa Hui Tew](https://htew0001.github.io/)¹*, [Junn Yong Loo](https://scholar.google.com/citations?user=PsL3CMYAAAAJ&hl=en)¹*, [Fang Yu Leong](https://scholar.google.com/citations?user=RkNP3BAAAAAJ&hl=en)¹*, [Hernando Ombao](https://scholar.google.com.my/citations?user=z_BmSq4AAAAJ&hl=en&authuser=1&oi=ao)², [Chee-Ming Ting](https://scholar.google.com.my/citations?user=z_BmSq4AAAAJ&hl=en&authuser=1&oi=ao)¹†
 
 ¹ ​School of Information Technology, Monash University Malaysia
+² Statistics Program, King Abdullah University of Science and Technology
 
 [![paper](https://img.shields.io/badge/MICCAI'25-T2IDiff-b31b1b)](https://papers.miccai.org/miccai-2025/paper/3042_paper.pdf)
 [![arXiv](https://img.shields.io/badge/ICLR'26-DSFM-b31b1b)](https://openreview.net/pdf?id=Dgphd9qizu)
