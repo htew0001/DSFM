@@ -14,7 +14,7 @@
 
 </div>
 <div align="center">
-<img src="Images/viz1.png" alt="Visualization">
+<img src="Image/viz1.png" alt="Visualization">
     
 **Figure 1:** Overview of our proposed DSFM framework.
 </div>
